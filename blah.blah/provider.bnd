@@ -1,0 +1,16 @@
+#
+# BLAH BLAH	BUNDLE 
+#
+
+Bundle-Description: \
+	The provider bundle for blah.blah. \
+	\
+	${warning;Please update this Bundle-Description in blah.blah/api.bnd}
+	
+Export-Package:  \
+	blah.blah.api
+
+Private-Package:  \
+	blah.blah.provider
+
+-includeresource: {readme.md}

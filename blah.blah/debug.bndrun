@@ -1,0 +1,13 @@
+#
+# BLAH BLAH	DEBUG LAUNCH SPECFICATION 
+#
+
+-include: ~blah.blah.bndrun
+
+-runrequires.debug:  \
+	${debug-bundles}
+
+-runtrace: true
+
+-runbundles: \
+	${error;Resolve first}

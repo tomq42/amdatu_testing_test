@@ -1,0 +1,5 @@
+{
+ "revisionRefs":[{
+  "artifactId":"org.apache.felix.dependencymanager","baseline":"4.3.0","bsn":"org.apache.felix.dependencymanager","created":1457287306000,"description":"Provides dynamic service and component dependency management","groupId":"org.apache.felix","md5":"69BBB198EF81A64EE36EA95CC65E4893","name":"Apache Felix Dependency Manager","phase":"MASTER","revision":"C096A4EF6ABB56DBC1394CE4B87D5189F66E6995","size":240627,"urls":["http://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.dependencymanager/4.3.0/org.apache.felix.dependencymanager-4.3.0.jar"],"version":"4.3.0"
+ }]
+}

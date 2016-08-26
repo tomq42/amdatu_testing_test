@@ -1,0 +1,19 @@
+#
+# BLAH BLAH API
+#
+
+Bundle-Description: \
+	BLAH BLAH API \
+	\
+	${warning;Please update this Bundle-Description in blah.blah/api.bnd}
+	
+	
+Export-Package:  \
+	blah.blah.api
+
+Require-Capability: \
+	compile-only
+
+
+-includeresource: {readme.md}
+

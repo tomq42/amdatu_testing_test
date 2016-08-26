@@ -1,0 +1,15 @@
+#
+# BLAH BLAH GOGO COMMAND BUNDLE (blah) 
+#
+
+Bundle-Description: \
+	Provides a command to the Gogo shell. \
+	\
+	${warning;Please update this Bundle-Description in blah.blah/command.bnd}
+	
+
+Private-Package:  \
+	blah.blah.command
+	
+	
+-includeresource: {readme.md}

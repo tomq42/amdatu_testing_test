@@ -1,0 +1,15 @@
+#
+# BLAH BLAH	LAUNCH SPECIFICATION 
+#
+
+
+Bundle-Version:				1.0.0.${tstamp}
+Bundle-SymbolicName:		blah.blah.launch
+JPM-Command:				blah
+
+
+-runrequires:  \
+	osgi.identity;filter:='(osgi.identity=blah.blah.provider)',\
+	osgi.identity;filter:='(osgi.identity=blah.blah.command)'
+
+-runbundles: ${error;You must first resolve this bndrun file before you can run it}

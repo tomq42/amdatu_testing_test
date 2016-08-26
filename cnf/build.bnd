@@ -1,0 +1,6 @@
+#
+# This file is left open for you to define your macros
+#
+-plugin: \
+	aQute.bnd.deployer.repository.FixedIndexedRepo;name=Amdatu Release;locations=http://repository.amdatu.org/release/index.xml.gz, \
+	aQute.bnd.deployer.repository.FixedIndexedRepo;name=Amdatu dependencies;locations=http://repository.amdatu.org/dependencies/index.xml.gz	
